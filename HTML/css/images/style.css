@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    /padding: 0px;/
+}
+.main{
+    height: 100vh;
+    background-color: grey;
+}
+.header{
+    background-color: black;
+    height: 10vh;
+    padding-top: 5vh;
+}
+.navbar-nav{
+    color: white;
+    list-style: none;
+}
+
+.navbar-nav li{
+    display: inline;
+    margin-right: 8px;
+    font-size: 25px;
+}
+.content{
+    height: 70vh;
+    background-color: darkkhaki;
+}
+.content iframe{
+    width: 100%;
+    height: 100%;
+}
+.footer{
+    height: 20vh;
+    background-color: black;
+}
+
+.header ul a{
+    color: white;
+    text-decoration: none;
+}
